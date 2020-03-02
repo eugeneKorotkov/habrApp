@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "157796819405",
+    "firebase_url": "https://habrapp-a8493.firebaseio.com",
+    "project_id": "habrapp-a8493",
+    "storage_bucket": "habrapp-a8493.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157796819405:android:bdc240f2fc68be7c8a6484",
+        "android_client_info": {
+          "package_name": "ru.korotkov.habrapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157796819405-opvmba8ejb4biemccld2haurdmcrqlhl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtpA1ix5j8KyzEyX7rQaSIQHxy9INhY_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "157796819405-opvmba8ejb4biemccld2haurdmcrqlhl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
